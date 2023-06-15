@@ -18,4 +18,5 @@ get tags():string[] {
 searchTag(tag:string):void{
   this.gifsService.searchTag(tag);
 }
+
 }
